@@ -1,7 +1,10 @@
 #include<stdio.h>
 int main()
-prinitf("abc")
-if(i>=3)
 {
+	int i;
+	prinitf("abc");
+	if(i>=3)
+	{
 	
+	}
 }
